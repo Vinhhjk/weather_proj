@@ -1,0 +1,57 @@
+{
+    "location": {
+        "name": "Ho Chi Minh City",
+        "region": "",
+        "country": "Vietnam",
+        "lat": 10.75,
+        "lon": 106.67,
+        "tz_id": "Asia/Ho_Chi_Minh",
+        "localtime_epoch": 1726105168,
+        "localtime": "2024-09-12 08:39"
+    },
+    "current": {
+        "last_updated_epoch": 1726104600,
+        "last_updated": "2024-09-12 08:30",
+        "temp_c": 29.2,
+        "temp_f": 84.6,
+        "is_day": 1,
+        "condition": {
+            "text": "Sunny",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+            "code": 1000
+        },
+        "wind_mph": 2.2,
+        "wind_kph": 3.6,
+        "wind_degree": 274,
+        "wind_dir": "W",
+        "pressure_mb": 1010.0,
+        "pressure_in": 29.83,
+        "precip_mm": 0.0,
+        "precip_in": 0.0,
+        "humidity": 79,
+        "cloud": 0,
+        "feelslike_c": 37.2,
+        "feelslike_f": 98.9,
+        "windchill_c": 26.7,
+        "windchill_f": 80.0,
+        "heatindex_c": 30.8,
+        "heatindex_f": 87.4,
+        "dewpoint_c": 24.7,
+        "dewpoint_f": 76.4,
+        "vis_km": 10.0,
+        "vis_miles": 6.0,
+        "uv": 7.0,
+        "gust_mph": 4.7,
+        "gust_kph": 7.6,
+        "air_quality": {
+            "co": 973.1,
+            "no2": 82.695,
+            "o3": 3.0,
+            "so2": 86.21,
+            "pm2_5": 39.035,
+            "pm10": 55.87,
+            "us-epa-index": 2,
+            "gb-defra-index": 4
+        }
+    }
+}
