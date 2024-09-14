@@ -6,8 +6,8 @@ from datetime import datetime, timedelta
 
 load_dotenv()
 city = 'Ho chi minh'
-start_date = datetime(2024, 1,1)
-end_date = datetime(2024,9,12)
+start_date = datetime(2024, 9,7)
+end_date = datetime(2024,9,14)
 current_date = start_date
 while current_date <= end_date:
     date_str = current_date.strftime("%Y-%m-%d")
